@@ -1,0 +1,18 @@
+﻿  Enemy.cpp
+D:\3d_visualisation\MIPT_3D_Visualisation\HW1\Enemy\Enemy\Enemy.cpp(101,5): warning C4305: инициализация: усечение из "double" в "const GLfloat"
+D:\3d_visualisation\MIPT_3D_Visualisation\HW1\Enemy\Enemy\Enemy.cpp(150,29): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\3d_visualisation\MIPT_3D_Visualisation\HW1\Enemy\Enemy\Enemy.cpp(151,29): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\3d_visualisation\MIPT_3D_Visualisation\HW1\Enemy\Enemy\Enemy.cpp(152,29): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Enemy.vcxproj -> D:\3d_visualisation\MIPT_3D_Visualisation\HW1\Enemy\Enemy\x64\Debug\Enemy.exe

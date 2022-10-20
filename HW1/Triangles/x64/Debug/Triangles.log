@@ -1,0 +1,17 @@
+﻿  Triangles.cpp
+D:\3d_visualisation\MIPT_3D_Visualisation\HW1\Triangles\Triangles.cpp(130,29): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\3d_visualisation\MIPT_3D_Visualisation\HW1\Triangles\Triangles.cpp(131,29): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\3d_visualisation\MIPT_3D_Visualisation\HW1\Triangles\Triangles.cpp(132,29): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Triangles.vcxproj -> D:\3d_visualisation\MIPT_3D_Visualisation\HW1\Triangles\x64\Debug\Triangles.exe

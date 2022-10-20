@@ -1,0 +1,2 @@
+D:\3d_visualisation\Task1\Triangles\x64\Debug\Triangles.exe
+D:\3d_visualisation\MIPT_3D_Visualisation\HW1\Triangles\x64\Debug\Triangles.exe
